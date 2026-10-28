@@ -2,8 +2,8 @@
 
 [WebAuthn(FIDO2) パスキー認証ゲート Passgate](https://github.com/yankeguo/passgate) の arm64 対応 Docker イメージ。
 
-> **このリポジトリは Passgate の再実装・フォークではありません。**
-> 上流のソースコード・Dockerfile を**無改修のまま** clone し、`linux/arm64` 向けにビルドして公開するだけの、薄いビルドラッパーです。すべての設計・実装のクレジットは上流の作者 [Y.-K. Guo (@yankeguo)](https://github.com/yankeguo) に帰属します。
+**このリポジトリは Passgate の再実装・フォークではありません。**
+上流のソースコード・Dockerfile を**無改修のまま** clone し、`linux/arm64` 向けにビルドして公開するだけの、薄いビルドラッパーです。すべての設計・実装のクレジットは上流の作者 [Y.-K. Guo (@yankeguo)](https://github.com/yankeguo) に帰属します。
 
 ## Passgate について（上流 README より）
 
